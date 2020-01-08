@@ -1,0 +1,8 @@
+prefix=/home/icra/zhangao/workplace/shangke_uni/devel
+
+Name: multi_jackal_base
+Description: Description of multi_jackal_base
+Version: 0.0.5
+Cflags: 
+Libs: -L/home/icra/zhangao/workplace/shangke_uni/devel/lib 
+Requires: 

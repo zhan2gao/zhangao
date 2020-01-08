@@ -1,0 +1,2 @@
+set(wfov_camera_msgs_MESSAGE_FILES "/home/icra/zhangao/workplace/shangke_uni/src/pointgrey_camera_driver/wfov_camera_msgs/msg/WFOVCompressedImage.msg;/home/icra/zhangao/workplace/shangke_uni/src/pointgrey_camera_driver/wfov_camera_msgs/msg/WFOVImage.msg;/home/icra/zhangao/workplace/shangke_uni/src/pointgrey_camera_driver/wfov_camera_msgs/msg/WFOVTrigger.msg")
+set(wfov_camera_msgs_SERVICE_FILES "")

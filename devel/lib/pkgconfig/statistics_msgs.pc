@@ -1,0 +1,8 @@
+prefix=/home/icra/zhangao/workplace/shangke_uni/devel
+
+Name: statistics_msgs
+Description: Description of statistics_msgs
+Version: 0.13.4
+Cflags: -I/home/icra/zhangao/workplace/shangke_uni/devel/include
+Libs: -L/home/icra/zhangao/workplace/shangke_uni/devel/lib 
+Requires: message_runtime

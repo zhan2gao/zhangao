@@ -1,0 +1,8 @@
+prefix=/home/icra/zhangao/workplace/shangke_uni/devel
+
+Name: mecanum_sim
+Description: Description of mecanum_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/icra/zhangao/workplace/shangke_uni/devel/lib 
+Requires: 

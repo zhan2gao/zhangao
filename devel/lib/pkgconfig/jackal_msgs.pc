@@ -1,0 +1,8 @@
+prefix=/home/icra/zhangao/workplace/shangke_uni/devel
+
+Name: jackal_msgs
+Description: Description of jackal_msgs
+Version: 0.6.3
+Cflags: -I/home/icra/zhangao/workplace/shangke_uni/devel/include
+Libs: -L/home/icra/zhangao/workplace/shangke_uni/devel/lib 
+Requires: std_msgs message_runtime

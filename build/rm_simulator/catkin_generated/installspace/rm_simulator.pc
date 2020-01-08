@@ -1,0 +1,8 @@
+prefix=/home/icra/zhangao/workplace/shangke_uni/install
+
+Name: rm_simulator
+Description: Description of rm_simulator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/icra/zhangao/workplace/shangke_uni/install/lib 
+Requires: 

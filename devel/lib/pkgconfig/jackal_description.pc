@@ -1,0 +1,8 @@
+prefix=/home/icra/zhangao/workplace/shangke_uni/devel
+
+Name: jackal_description
+Description: Description of jackal_description
+Version: 0.6.3
+Cflags: 
+Libs: -L/home/icra/zhangao/workplace/shangke_uni/devel/lib 
+Requires: 

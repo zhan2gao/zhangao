@@ -1,0 +1,8 @@
+prefix=/home/icra/zhangao/workplace/shangke_uni/devel
+
+Name: pointgrey_camera_driver
+Description: Description of pointgrey_camera_driver
+Version: 0.13.4
+Cflags: -I/home/icra/zhangao/workplace/shangke_uni/devel/include
+Libs: -L/home/icra/zhangao/workplace/shangke_uni/devel/lib 
+Requires: image_exposure_msgs nodelet roscpp sensor_msgs wfov_camera_msgs
